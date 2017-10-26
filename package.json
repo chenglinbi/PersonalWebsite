@@ -1,5 +1,5 @@
 {
-  "name": "personalsite",
+  "name": "personalwebsite",
   "version": "1.0.0",
   "description": "person web site",
   "main": "server.js",
@@ -13,5 +13,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "chenglin bi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenglinbi/PersonalWebsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chenglinbi/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/chenglinbi/PersonalWebsite#readme"
 }

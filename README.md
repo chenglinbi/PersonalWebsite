@@ -9,6 +9,7 @@ TO FIX
 - Professional Overview: adjust jobs div so that formatting stays consistent when window size changes
 
 TECHS THAT I HOPE TO IMPLEMENT
+- Blogging system
 - MEAN stack
     - using a db (possibly MongoDB) to store a blog or images
 - github (for version control)
