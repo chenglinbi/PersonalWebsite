@@ -7,6 +7,7 @@ The goal of this project is to develop a web app that will serve as your persona
 
 TO FIX
 - Professional Overview: adjust jobs div so that formatting stays consistent when window size changes
+
 techs that i hope to implement
 - MEAN stack
     - using a db (possibly MongoDB) to store a blog or images
