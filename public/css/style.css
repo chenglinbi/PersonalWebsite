@@ -77,9 +77,8 @@ body, html {
 }
 .job-desc {
     position: relative;
-    left: 180px;
-    bottom: 220px;
-    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .nav-bar {
     position: sticky;

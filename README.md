@@ -21,6 +21,9 @@ IDEAS THAT I HOPE TO IMPLEMENT
 - admin(me) gallery
     - supports automatic photouploads
 
+LOW PRIORITY
+-  Poweredby section: Nodejs, expressJs, MongoDB, etc..
+
 This will also serve as a development diary used to record development progresses
 
 2017-10-24
@@ -28,3 +31,11 @@ This will also serve as a development diary used to record development progresse
 - used free stock images from https://www.pexels.com
 - bootstrap4 documentations from https://www.quackit.com/bootstrap/bootstrap_4/tutorial/
 - Added introduction and professional overview
+
+2017-10-25
+- created the Skills section
+- minor css adjeustments
+- added a navbar
+- 
+2017-10-16
+

@@ -1,10 +1,11 @@
-var http = require("http");
-var express = require("express");
-var path = require("path");
+const http = require("http");
+const express = require("express");
+const path = require("path");
+const mongoose = require("mongoose");
 //exphbs not being used atm
-var hbs = require("express-handlebars");
+const hbs = require("express-handlebars");
 //body parser not being used atm
-var bodyParser = require("body-parser");
+const bodyParser = require("body-parser");
 var app = express();
 
 //middleware
