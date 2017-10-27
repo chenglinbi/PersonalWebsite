@@ -1,13 +1,11 @@
 const http = require("http");
 const express = require("express");
 const path = require("path");
-const mongoose = require("mongoose");
 //exphbs not being used atm
 const hbs = require("express-handlebars");
 //body parser not being used atm
 const bodyParser = require("body-parser");
-var app = express();
-
+var app = express(); 
 //middleware
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
