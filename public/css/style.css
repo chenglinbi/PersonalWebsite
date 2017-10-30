@@ -109,3 +109,6 @@ body, html {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.btn.nav-link {
+    max-height: 5px;
+}

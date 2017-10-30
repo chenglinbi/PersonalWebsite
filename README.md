@@ -46,3 +46,6 @@ This will also serve as a development diary used to record development progresse
 - Added skills icon and the corresponding progress bars
 - css changed to remove max-height for the section-light divs
 
+2017-10-30
+- minor changes to Me, Myself & I section.
+
