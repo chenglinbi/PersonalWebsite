@@ -1,11 +1,16 @@
 const http = require("http");
 const express = require("express");
 const path = require("path");
+const mongoose = require("mongoose");
 //exphbs not being used atm
 const hbs = require("express-handlebars");
 //body parser not being used atm
 const bodyParser = require("body-parser");
-var app = express(); 
+const data
+var app = express();
+var Schema = mongoose.Schema;
+
+
 //middleware
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
@@ -20,7 +25,7 @@ app.set('view engine', 'hbs');
 //redirects requires for homepage
 app.get('/', (req, res) => {
     console.log("User" + req.url + "tried to connect");
-    res.render("index");
+    res.render("index",);
 });
 app.get('/sandbox', (req, res) =>{
     console.log("User" + req.url + "tried to connect");

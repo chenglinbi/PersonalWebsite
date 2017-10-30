@@ -6,10 +6,9 @@ The goal of this project is to develop a web app that will serve as your persona
 - bootstrap
 
 TO FIX
-- Professional Overview: adjust jobs div so that formatting stays consistent when window size changes
+
 
 TECHS THAT I HOPE TO IMPLEMENT
-- Blogging system
 - MEAN stack
     - using a db (possibly MongoDB) to store a blog or images
 - github (for version control)
@@ -17,6 +16,8 @@ TECHS THAT I HOPE TO IMPLEMENT
 - OpenGL WebGL
 
 IDEAS THAT I HOPE TO IMPLEMENT
+- Blogging system
+- using mongoDB to generate random inspirational quotes
 - account login
 - admin(me) gallery
     - supports automatic photouploads
@@ -36,6 +37,12 @@ This will also serve as a development diary used to record development progresse
 - created the Skills section
 - minor css adjeustments
 - added a navbar
-- 
-2017-10-16
+
+2107-10-26
+- removed the job logos to ensure page view stays consistent as window size changes
+
+2017-10-29
+- Added alert for Bootstrap 4
+- Added skills icon and the corresponding progress bars
+- css changed to remove max-height for the section-light divs
 

@@ -42,7 +42,6 @@ body, html {
 .section-light {
     background-color: #f4f4f4;
     color: #666;
-    max-height: 650px;
 }
 .section-dark {
     background-color: #282e34;
@@ -104,4 +103,9 @@ body, html {
 
 #myBtn:hover {
     background-color: #555; /* Add a dark-grey background on hover */
+}
+.skills1, .skills2, .skills3 {
+    font-size: 500%;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }

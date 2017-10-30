@@ -6,7 +6,8 @@
   "dependencies": {
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
-    "handlebars": "^4.0.10"
+    "handlebars": "^4.0.10",
+    "mongoose": "^4.12.4"
   },
   "devDependencies": {},
   "scripts": {
