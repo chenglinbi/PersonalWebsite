@@ -2,7 +2,7 @@
   "name": "personalwebsite",
   "version": "1.0.0",
   "description": "person web site",
-  "main": "app.js",
+  "main": "node app.js",
   "dependencies": {
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
