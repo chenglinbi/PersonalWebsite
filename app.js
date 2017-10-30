@@ -33,6 +33,6 @@ app.get('/sandbox', (req, res) =>{
     res.render('sandbox');
 });
 //listening for connection attempts
-app.listen(3000, (req, res) => {
+app.listen(process.env.PORT || 3000, (req, res) => {
     console.log("Server started on port 3000...")
 });
