@@ -8,7 +8,9 @@ body, html {
     color: #666;
     overflow-x: hidden;
 }
-
+h2 {
+    margin: 30px;
+}
 .pimg1 {
     background-image: url(https://static.pexels.com/photos/249101/pexels-photo-249101.jpeg);
     min-height: 100%; /*set the minimum height of an element, 
@@ -111,4 +113,13 @@ body, html {
 }
 .btn.nav-link {
     max-height: 5px;
+}
+.git-link, .git-link:hover{
+    font-size: 700%;
+    color: white;
+    text-decoration: none;
+}
+.git-logo {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }

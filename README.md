@@ -7,11 +7,9 @@ The goal of this project is to develop a web app that will serve as your persona
 
 TO FIX
 
-
 TECHS THAT I HOPE TO IMPLEMENT
 - MEAN stack
     - using a db (possibly MongoDB) to store a blog or images
-- github (for version control)
 - google features
 - OpenGL WebGL
 
@@ -23,7 +21,13 @@ IDEAS THAT I HOPE TO IMPLEMENT
     - supports automatic photouploads
 
 LOW PRIORITY
--  Poweredby section: Nodejs, expressJs, MongoDB, etc..
+- Poweredby section: Nodejs, expressJs, MongoDB, etc..
+- Move the development diary to a standalone page on the website to remove clutter
+- favicon
+
+HIGH PRIORITY
+- RESTful API to allow quicker page loading
+- MongoDB blog system
 
 This will also serve as a development diary used to record development progresses
 
@@ -48,4 +52,10 @@ This will also serve as a development diary used to record development progresse
 
 2017-10-30
 - minor changes to Me, Myself & I section.
+- added a page for the blog page along with custom blog menu bars.
+- added a .gitignore file
+- Deployed webapp to heroku URL:https://obscure-inlet-93935.herokuapp.com/ WE'RE LIVE!
+- changed Canvas section to The Canvas, along with github link
+- changed skills icons to coloured versions
+
 
