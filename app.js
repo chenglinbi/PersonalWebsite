@@ -28,9 +28,9 @@ app.get('/', (req, res) => {
     console.log("User" + req.url + "tried to connect");
     res.render("index");
 });
-app.get('/sandbox', (req, res) =>{
+app.get('/blog', (req, res) =>{
     console.log("User" + req.url + "tried to connect");
-    res.render('sandbox');
+    res.render('blog');
 });
 //listening for connection attempts
 app.listen(process.env.PORT || 3000, (req, res) => {
