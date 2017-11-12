@@ -26,6 +26,7 @@ LOW PRIORITY
 - favicon
 
 HIGH PRIORITY
+- login system
 - RESTful API to allow quicker page loading
 - MongoDB blog system
 
@@ -58,4 +59,6 @@ This will also serve as a development diary used to record development progresse
 - changed Canvas section to The Canvas, along with github link
 - changed skills icons to coloured versions
 
+2017-11-11
+- started working on login system
 
