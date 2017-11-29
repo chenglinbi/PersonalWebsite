@@ -36,7 +36,11 @@ app.get('/dashboard', (req, res) => {
     console.log('User + req.url + "tried to connect');
     databaseService.userLogin('test', 'test').then(() => {
         res.render('dashboard');
-    })
+    });
+});
+//port for sandbox site, mainly used as testing portal
+app.get('/sandbox', (req, res) => {
+    res.render('sandbox');
 });
 //listening for connection attempts
 app.listen(process.env.PORT || 3000, (req, res) => {
