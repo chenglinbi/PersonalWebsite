@@ -7,7 +7,7 @@ module.exports.userLogin = (user, pass) => {
                 console.log("No user could be found");
             } else {
                 console.log('Found user, authenticating...')
-                if (user.password == pass) {
+                if (user.password === pass) {
                     console.log("Authenticated");
                 } else {
                     console.log("Wrong pw");
